@@ -1,0 +1,1001 @@
+transaction_id,date,product_name,category,region,quantity,unit_price
+1,2023-05-21,Sneakers,Clothing,East,5,76.51
+2,2023-11-01,T-Shirt,Clothing,West,2,21.56
+3,2023-10-02,T-Shirt,Clothing,South,4,20.47
+4,2023-04-05,Mouse,Electronics,North,5,32.28
+5,2023-12-22,Smartphone,Electronics,West,3,761.57
+6,2023-01-31,Coffee Maker,Home,North,1,103.72
+7,2023-09-15,Sneakers,Clothing,West,1,83.63
+8,2023-03-03,Monitor,Electronics,West,4,314.79
+9,2023-10-09,Backpack,Accessories,North,5,56.57
+10,2023-07-27,Laptop,Electronics,East,4,1113.96
+11,2023-10-31,T-Shirt,Clothing,East,3,21.76
+12,2023-07-04,T-Shirt,Clothing,East,1,21.94
+13,2023-07-01,Mouse,Electronics,North,4,32.18
+14,2023-03-05,Smartphone,Electronics,West,4,866.84
+15,2023-06-27,Coffee Maker,Home,East,1,101.30
+16,2023-11-30,Headphones,Electronics,East,5,150.43
+17,2023-02-26,Keyboard,Electronics,North,1,49.78
+18,2023-04-17,Smartphone,Electronics,East,2,742.10
+19,2023-05-27,T-Shirt,Clothing,East,3,20.03
+20,2023-07-01,Mouse,Electronics,East,5,28.85
+21,2023-06-17,Backpack,Accessories,East,2,64.03
+22,2023-06-04,Jeans,Clothing,East,3,50.49
+23,2023-06-13,T-Shirt,Clothing,East,4,18.00
+24,2023-08-26,Laptop,Electronics,East,2,1253.15
+25,2023-09-05,Headphones,Electronics,North,4,144.02
+26,2023-10-18,Blender,Home,West,2,79.01
+27,2023-01-07,Headphones,Electronics,East,3,158.10
+28,2023-09-24,Sneakers,Clothing,East,4,78.30
+29,2023-06-10,Backpack,Accessories,East,2,56.60
+30,2023-03-24,Blender,Home,West,1,82.16
+31,2023-06-24,Blender,Home,North,3,85.75
+32,2023-02-09,Sneakers,Clothing,East,1,76.08
+33,2023-03-23,Mouse,Electronics,West,3,27.83
+34,2023-07-10,Monitor,Electronics,South,5,272.56
+35,2023-04-07,Blender,Home,North,1,77.47
+36,2023-05-05,Jeans,Clothing,North,1,52.81
+37,2023-04-04,Coffee Maker,Home,East,3,99.90
+38,2023-11-15,Jeans,Clothing,East,1,48.83
+39,2023-07-27,Coffee Maker,Home,West,1,102.20
+40,2023-07-12,Coffee Maker,Home,West,1,104.95
+41,2023-01-09,Sneakers,Clothing,South,2,76.14
+42,2023-05-31,Blender,Home,West,2,74.59
+43,2023-04-15,Desk Lamp,Home,South,4,41.22
+44,2023-06-01,Coffee Maker,Home,North,4,100.13
+45,2023-02-09,Jeans,Clothing,North,5,54.68
+46,2023-05-12,Headphones,Electronics,South,1,143.09
+47,2023-06-01,Coffee Maker,Home,West,2,106.54
+48,2023-08-13,Mouse,Electronics,North,1,27.75
+49,2023-04-07,Laptop,Electronics,West,1,1106.41
+50,2023-12-07,Jeans,Clothing,East,2,46.39
+51,2023-11-25,Sneakers,Clothing,North,3,73.51
+52,2023-01-03,Smartphone,Electronics,South,5,826.36
+53,2023-07-26,Headphones,Electronics,North,4,145.81
+54,2023-07-01,Headphones,Electronics,East,3,165.00
+55,2023-09-09,Keyboard,Electronics,South,4,49.26
+56,2023-03-08,Coffee Maker,Home,West,4,98.37
+57,2023-07-22,Sneakers,Clothing,West,4,79.60
+58,2023-10-06,Jeans,Clothing,East,1,49.48
+59,2023-08-07,Desk Lamp,Home,South,2,38.14
+60,2023-07-18,Headphones,Electronics,South,2,135.01
+61,2023-05-07,Desk Lamp,Home,South,1,42.73
+62,2023-01-08,Mouse,Electronics,North,1,29.07
+63,2023-08-19,Coffee Maker,Home,North,5,97.31
+64,2023-05-05,Blender,Home,West,2,87.18
+65,2023-07-09,Laptop,Electronics,East,3,1244.49
+66,2023-07-05,Sneakers,Clothing,South,1,87.14
+67,2023-09-11,Backpack,Accessories,West,3,55.47
+68,2023-04-17,Desk Lamp,Home,West,1,42.10
+69,2023-07-24,Keyboard,Electronics,South,3,53.07
+70,2023-04-14,Headphones,Electronics,North,5,139.47
+71,2023-11-06,Blender,Home,South,5,84.11
+72,2023-12-11,Blender,Home,North,4,75.53
+73,2023-02-09,Keyboard,Electronics,East,3,49.01
+74,2023-08-16,Keyboard,Electronics,North,1,52.79
+75,2023-08-08,T-Shirt,Clothing,East,4,18.37
+76,2023-03-28,Backpack,Accessories,North,2,57.67
+77,2023-10-14,Monitor,Electronics,North,4,275.79
+78,2023-03-22,Smartphone,Electronics,South,1,729.84
+79,2023-02-03,Sneakers,Clothing,East,1,81.55
+80,2023-07-21,Monitor,Electronics,East,2,279.52
+81,2023-12-23,Jeans,Clothing,South,3,52.14
+82,2023-08-19,Blender,Home,North,3,81.97
+83,2023-07-17,T-Shirt,Clothing,West,3,20.13
+84,2023-10-22,Smartphone,Electronics,East,3,745.91
+85,2023-02-04,Coffee Maker,Home,West,5,99.84
+86,2023-01-30,Mouse,Electronics,West,1,31.59
+87,2023-11-08,Headphones,Electronics,East,4,151.64
+88,2023-08-08,T-Shirt,Clothing,South,5,20.07
+89,2023-05-14,Laptop,Electronics,East,5,1222.91
+90,2023-09-30,Laptop,Electronics,North,2,1121.75
+91,2023-06-18,Laptop,Electronics,South,3,1088.26
+92,2023-12-12,Laptop,Electronics,South,5,1217.70
+93,2023-02-02,Headphones,Electronics,South,2,155.11
+94,2023-01-05,Desk Lamp,Home,West,3,42.15
+95,2023-03-17,T-Shirt,Clothing,West,2,20.12
+96,2023-02-06,Blender,Home,West,1,81.42
+97,2023-10-22,Blender,Home,West,2,87.04
+98,2023-06-18,Coffee Maker,Home,North,2,91.12
+99,2023-10-12,Keyboard,Electronics,North,3,49.59
+100,2023-01-14,Coffee Maker,Home,West,4,104.13
+101,2023-03-03,Mouse,Electronics,South,3,32.86
+102,2023-12-11,Backpack,Accessories,South,2,54.41
+103,2023-09-13,Laptop,Electronics,North,5,1298.29
+104,2023-09-06,Desk Lamp,Home,East,5,40.34
+105,2023-05-11,Sneakers,Clothing,North,2,83.63
+106,2023-07-05,T-Shirt,Clothing,West,3,20.25
+107,2023-06-25,Monitor,Electronics,West,3,314.04
+108,2023-06-08,Laptop,Electronics,East,1,1087.24
+109,2023-10-07,Blender,Home,South,4,82.53
+110,2023-06-27,Backpack,Accessories,North,5,65.96
+111,2023-05-11,Laptop,Electronics,East,2,1261.21
+112,2023-04-02,Jeans,Clothing,West,1,45.30
+113,2023-02-07,Keyboard,Electronics,South,1,45.54
+114,2023-12-20,Coffee Maker,Home,North,4,108.01
+115,2023-12-06,Coffee Maker,Home,East,2,105.28
+116,2023-08-07,Laptop,Electronics,East,2,1223.62
+117,2023-06-21,Monitor,Electronics,West,1,297.09
+118,2023-11-13,Backpack,Accessories,South,2,63.21
+119,2023-10-11,Mouse,Electronics,North,1,28.96
+120,2023-05-11,T-Shirt,Clothing,South,5,21.54
+121,2023-01-29,Desk Lamp,Home,West,2,36.46
+122,2023-11-11,Coffee Maker,Home,South,1,107.12
+123,2023-09-29,Laptop,Electronics,West,2,1084.76
+124,2023-10-01,Smartphone,Electronics,West,5,752.26
+125,2023-05-28,Jeans,Clothing,East,2,51.51
+126,2023-04-24,T-Shirt,Clothing,North,1,20.22
+127,2023-05-24,Headphones,Electronics,South,2,155.57
+128,2023-10-14,Coffee Maker,Home,North,4,90.80
+129,2023-02-15,Mouse,Electronics,South,5,32.88
+130,2023-11-09,Sneakers,Clothing,West,4,72.84
+131,2023-09-24,Monitor,Electronics,North,3,307.58
+132,2023-11-01,Mouse,Electronics,East,5,30.78
+133,2023-12-21,Headphones,Electronics,North,5,136.65
+134,2023-07-12,Jeans,Clothing,West,1,51.04
+135,2023-11-14,Jeans,Clothing,West,1,47.91
+136,2023-03-27,Monitor,Electronics,East,5,270.06
+137,2023-07-07,T-Shirt,Clothing,West,1,21.60
+138,2023-03-28,Jeans,Clothing,South,3,47.06
+139,2023-10-09,Blender,Home,South,5,72.46
+140,2023-08-13,Mouse,Electronics,North,5,30.15
+141,2023-07-03,Monitor,Electronics,West,3,294.97
+142,2023-11-12,Desk Lamp,Home,South,2,37.61
+143,2023-09-06,T-Shirt,Clothing,West,2,21.26
+144,2023-03-26,Coffee Maker,Home,West,2,100.11
+145,2023-09-12,Monitor,Electronics,East,4,322.51
+146,2023-07-09,Jeans,Clothing,South,2,45.70
+147,2023-05-09,Blender,Home,South,5,80.96
+148,2023-12-09,Desk Lamp,Home,East,2,40.35
+149,2023-06-04,Backpack,Accessories,North,4,57.50
+150,2023-05-05,Monitor,Electronics,West,1,301.32
+151,2023-11-03,Headphones,Electronics,West,3,153.33
+152,2023-01-08,T-Shirt,Clothing,West,5,18.80
+153,2023-08-26,Backpack,Accessories,East,5,60.42
+154,2023-09-23,Keyboard,Electronics,South,3,54.56
+155,2023-11-27,Desk Lamp,Home,East,4,39.87
+156,2023-09-17,Smartphone,Electronics,South,4,853.35
+157,2023-03-16,Laptop,Electronics,North,1,1182.14
+158,2023-09-04,Keyboard,Electronics,South,3,48.80
+159,2023-10-26,Headphones,Electronics,South,4,150.89
+160,2023-05-22,Coffee Maker,Home,East,1,99.12
+161,2023-03-04,Keyboard,Electronics,South,2,48.52
+162,2023-10-24,Laptop,Electronics,South,5,1087.51
+163,2023-11-14,T-Shirt,Clothing,West,5,19.34
+164,2023-09-12,T-Shirt,Clothing,West,5,18.08
+165,2023-12-14,Monitor,Electronics,East,4,272.88
+166,2023-03-03,T-Shirt,Clothing,North,5,18.66
+167,2023-04-06,Coffee Maker,Home,West,5,91.12
+168,2023-04-23,Desk Lamp,Home,West,5,41.31
+169,2023-07-22,T-Shirt,Clothing,East,4,18.49
+170,2023-03-23,Monitor,Electronics,North,1,316.98
+171,2023-10-10,Headphones,Electronics,East,1,154.04
+172,2023-02-22,Backpack,Accessories,North,3,56.68
+173,2023-10-16,Desk Lamp,Home,East,3,41.87
+174,2023-12-04,Jeans,Clothing,North,3,50.12
+175,2023-03-17,Monitor,Electronics,East,2,326.24
+176,2023-08-01,Keyboard,Electronics,North,3,51.36
+177,2023-03-24,Keyboard,Electronics,East,2,49.31
+178,2023-11-08,Backpack,Accessories,North,2,58.03
+179,2023-03-15,Monitor,Electronics,North,4,288.29
+180,2023-05-09,Coffee Maker,Home,North,2,105.93
+181,2023-05-16,Blender,Home,West,5,83.27
+182,2023-12-23,Headphones,Electronics,North,4,149.73
+183,2023-07-09,Keyboard,Electronics,East,1,52.72
+184,2023-10-06,Sneakers,Clothing,West,4,87.12
+185,2023-01-28,Monitor,Electronics,South,3,274.01
+186,2023-01-09,Laptop,Electronics,West,1,1207.85
+187,2023-03-07,Keyboard,Electronics,West,5,48.53
+188,2023-01-18,T-Shirt,Clothing,East,4,21.19
+189,2023-01-29,Headphones,Electronics,West,1,156.09
+190,2023-05-24,Desk Lamp,Home,West,3,38.96
+191,2023-09-02,Smartphone,Electronics,East,4,759.77
+192,2023-11-01,Sneakers,Clothing,West,2,77.23
+193,2023-09-27,Jeans,Clothing,West,1,52.11
+194,2023-02-02,Monitor,Electronics,South,1,326.79
+195,2023-06-03,Smartphone,Electronics,West,5,824.43
+196,2023-10-02,Blender,Home,South,4,78.58
+197,2023-09-24,Headphones,Electronics,West,2,160.40
+198,2023-04-10,Mouse,Electronics,East,1,28.40
+199,2023-10-09,Coffee Maker,Home,East,1,109.74
+200,2023-05-19,Laptop,Electronics,North,1,1196.84
+201,2023-01-01,T-Shirt,Clothing,West,5,19.43
+202,2023-07-25,Laptop,Electronics,West,1,1138.86
+203,2023-02-22,Coffee Maker,Home,East,4,107.92
+204,2023-08-11,Backpack,Accessories,West,4,63.51
+205,2023-08-16,T-Shirt,Clothing,West,1,18.29
+206,2023-05-07,Jeans,Clothing,South,3,45.05
+207,2023-01-07,Laptop,Electronics,North,4,1123.67
+208,2023-04-21,Blender,Home,West,5,86.82
+209,2023-02-19,Desk Lamp,Home,South,3,38.08
+210,2023-04-08,Monitor,Electronics,East,4,304.40
+211,2023-08-11,Coffee Maker,Home,West,4,90.80
+212,2023-08-07,Backpack,Accessories,East,4,55.01
+213,2023-12-10,Laptop,Electronics,West,5,1098.15
+214,2023-04-27,Headphones,Electronics,North,4,155.26
+215,2023-08-10,Laptop,Electronics,West,3,1199.33
+216,2023-08-18,Keyboard,Electronics,West,2,51.38
+217,2023-06-11,Sneakers,Clothing,West,5,78.36
+218,2023-05-11,Coffee Maker,Home,North,2,107.42
+219,2023-06-17,Sneakers,Clothing,North,2,85.16
+220,2023-10-30,Mouse,Electronics,West,5,30.44
+221,2023-07-26,Desk Lamp,Home,South,5,43.04
+222,2023-01-23,Jeans,Clothing,East,2,52.51
+223,2023-05-31,Keyboard,Electronics,East,5,54.08
+224,2023-01-03,Coffee Maker,Home,North,3,105.58
+225,2023-05-16,Jeans,Clothing,South,2,52.35
+226,2023-03-12,Backpack,Accessories,South,3,57.58
+227,2023-07-31,Jeans,Clothing,West,4,46.70
+228,2023-02-01,T-Shirt,Clothing,West,3,18.87
+229,2023-02-18,Laptop,Electronics,North,1,1178.73
+230,2023-02-14,Monitor,Electronics,East,5,285.26
+231,2023-11-18,Laptop,Electronics,West,5,1186.43
+232,2023-07-26,Headphones,Electronics,South,1,155.26
+233,2023-09-07,T-Shirt,Clothing,West,1,21.13
+234,2023-05-22,Mouse,Electronics,South,2,28.08
+235,2023-11-30,Smartphone,Electronics,North,4,811.86
+236,2023-04-26,Mouse,Electronics,East,5,27.15
+237,2023-09-13,Backpack,Accessories,West,2,62.77
+238,2023-11-05,Jeans,Clothing,West,2,52.86
+239,2023-10-05,Desk Lamp,Home,West,5,36.22
+240,2023-07-16,Desk Lamp,Home,North,5,42.10
+241,2023-03-08,Coffee Maker,Home,North,5,94.27
+242,2023-08-12,Desk Lamp,Home,North,3,37.14
+243,2023-07-27,Blender,Home,East,1,84.14
+244,2023-10-28,Sneakers,Clothing,East,1,72.44
+245,2023-04-04,Backpack,Accessories,West,1,63.57
+246,2023-11-27,Desk Lamp,Home,West,2,39.70
+247,2023-08-18,Backpack,Accessories,North,1,64.42
+248,2023-08-06,Headphones,Electronics,West,4,144.78
+249,2023-06-23,Jeans,Clothing,North,4,50.66
+250,2023-04-24,Laptop,Electronics,South,2,1166.40
+251,2023-03-23,Blender,Home,West,3,75.42
+252,2023-02-21,Laptop,Electronics,East,5,1273.15
+253,2023-07-05,Sneakers,Clothing,West,5,86.57
+254,2023-02-05,Smartphone,Electronics,South,5,842.31
+255,2023-01-02,Mouse,Electronics,East,2,27.53
+256,2023-05-06,Headphones,Electronics,North,4,138.82
+257,2023-10-09,Coffee Maker,Home,West,2,95.31
+258,2023-11-21,Backpack,Accessories,West,2,54.89
+259,2023-10-23,Jeans,Clothing,North,2,49.17
+260,2023-08-04,Coffee Maker,Home,West,5,106.26
+261,2023-12-12,Smartphone,Electronics,West,5,752.67
+262,2023-05-01,Monitor,Electronics,North,2,304.93
+263,2023-04-22,Sneakers,Clothing,West,5,80.97
+264,2023-10-10,Mouse,Electronics,West,4,28.79
+265,2023-08-23,Coffee Maker,Home,North,5,100.07
+266,2023-02-12,Mouse,Electronics,North,1,31.86
+267,2023-06-07,Laptop,Electronics,East,3,1278.06
+268,2023-05-30,Headphones,Electronics,East,2,164.55
+269,2023-09-10,Backpack,Accessories,East,2,64.18
+270,2023-08-10,Desk Lamp,Home,West,3,36.15
+271,2023-03-05,Sneakers,Clothing,South,1,74.07
+272,2023-06-25,Sneakers,Clothing,West,5,73.41
+273,2023-08-17,Laptop,Electronics,South,3,1254.70
+274,2023-05-12,T-Shirt,Clothing,East,1,21.82
+275,2023-12-02,T-Shirt,Clothing,East,1,21.78
+276,2023-05-23,Laptop,Electronics,South,3,1161.48
+277,2023-01-11,Sneakers,Clothing,East,2,85.18
+278,2023-10-09,Backpack,Accessories,West,2,62.69
+279,2023-11-18,Coffee Maker,Home,East,5,103.69
+280,2023-11-18,Laptop,Electronics,South,1,1156.22
+281,2023-06-24,Coffee Maker,Home,West,1,104.93
+282,2023-07-11,Desk Lamp,Home,East,4,40.96
+283,2023-01-12,T-Shirt,Clothing,East,1,18.30
+284,2023-11-25,Backpack,Accessories,East,4,60.86
+285,2023-05-16,Smartphone,Electronics,East,1,788.25
+286,2023-11-22,Laptop,Electronics,East,5,1276.87
+287,2023-11-23,Monitor,Electronics,North,4,316.24
+288,2023-11-02,Mouse,Electronics,West,3,31.03
+289,2023-11-14,Mouse,Electronics,East,3,31.30
+290,2023-02-04,Blender,Home,East,2,87.02
+291,2023-07-24,Desk Lamp,Home,West,3,40.25
+292,2023-06-25,Smartphone,Electronics,East,5,858.37
+293,2023-08-08,Smartphone,Electronics,East,3,859.35
+294,2023-11-15,Monitor,Electronics,East,3,311.60
+295,2023-04-29,Headphones,Electronics,West,5,155.87
+296,2023-05-06,Mouse,Electronics,East,2,27.92
+297,2023-10-12,Smartphone,Electronics,North,4,805.00
+298,2023-11-29,Backpack,Accessories,West,1,56.98
+299,2023-08-02,Smartphone,Electronics,South,4,788.94
+300,2023-04-01,Laptop,Electronics,South,5,1175.76
+301,2023-11-10,Mouse,Electronics,South,4,30.85
+302,2023-05-29,Sneakers,Clothing,South,4,75.41
+303,2023-02-18,Blender,Home,North,5,77.25
+304,2023-02-18,Blender,Home,West,5,77.17
+305,2023-05-31,Jeans,Clothing,West,1,48.55
+306,2023-02-26,Coffee Maker,Home,South,3,105.84
+307,2023-05-15,Laptop,Electronics,East,1,1168.24
+308,2023-01-03,Monitor,Electronics,West,2,287.09
+309,2023-10-21,Headphones,Electronics,South,2,149.26
+310,2023-09-25,Headphones,Electronics,West,5,139.83
+311,2023-03-13,T-Shirt,Clothing,East,5,18.15
+312,2023-12-22,Desk Lamp,Home,East,3,37.38
+313,2023-09-11,Smartphone,Electronics,South,2,773.01
+314,2023-10-31,Sneakers,Clothing,South,4,86.11
+315,2023-08-22,Keyboard,Electronics,East,1,50.41
+316,2023-05-13,Desk Lamp,Home,East,2,43.27
+317,2023-10-20,Backpack,Accessories,North,3,55.29
+318,2023-12-14,Backpack,Accessories,South,4,64.93
+319,2023-06-09,Sneakers,Clothing,East,1,79.55
+320,2023-07-05,Backpack,Accessories,North,5,63.01
+321,2023-12-16,Monitor,Electronics,West,1,313.34
+322,2023-09-03,Monitor,Electronics,South,2,310.60
+323,2023-06-14,Monitor,Electronics,North,1,280.34
+324,2023-05-26,Desk Lamp,Home,South,5,43.30
+325,2023-11-17,Keyboard,Electronics,East,2,46.74
+326,2023-09-25,Coffee Maker,Home,West,4,103.24
+327,2023-10-07,Sneakers,Clothing,South,1,74.06
+328,2023-04-04,Blender,Home,West,2,85.98
+329,2023-11-10,Laptop,Electronics,South,1,1315.54
+330,2023-06-08,Backpack,Accessories,North,2,65.99
+331,2023-02-02,Blender,Home,West,3,76.43
+332,2023-07-27,Sneakers,Clothing,North,3,76.82
+333,2023-11-25,Keyboard,Electronics,North,1,54.07
+334,2023-04-25,Headphones,Electronics,East,3,157.78
+335,2023-03-23,Blender,Home,South,2,86.61
+336,2023-03-25,Sneakers,Clothing,North,1,80.74
+337,2023-04-01,Coffee Maker,Home,East,4,100.70
+338,2023-04-03,Keyboard,Electronics,East,2,53.62
+339,2023-12-14,Mouse,Electronics,West,2,27.73
+340,2023-12-19,Smartphone,Electronics,North,5,781.73
+341,2023-02-02,Monitor,Electronics,East,3,300.09
+342,2023-03-20,Mouse,Electronics,East,1,32.41
+343,2023-08-16,Smartphone,Electronics,North,5,741.20
+344,2023-05-06,Coffee Maker,Home,East,5,108.80
+345,2023-10-29,Jeans,Clothing,East,5,47.77
+346,2023-12-09,Keyboard,Electronics,West,2,51.14
+347,2023-12-21,Sneakers,Clothing,South,3,86.92
+348,2023-10-06,Coffee Maker,Home,North,2,101.45
+349,2023-09-26,Mouse,Electronics,South,1,28.80
+350,2023-12-13,Coffee Maker,Home,North,3,95.37
+351,2023-09-07,Smartphone,Electronics,West,5,820.97
+352,2023-08-07,Mouse,Electronics,East,3,27.23
+353,2023-01-15,Coffee Maker,Home,West,4,90.76
+354,2023-07-10,T-Shirt,Clothing,East,5,21.52
+355,2023-05-28,Smartphone,Electronics,West,4,830.74
+356,2023-01-17,Smartphone,Electronics,West,3,752.05
+357,2023-04-09,T-Shirt,Clothing,East,5,18.70
+358,2023-03-20,Laptop,Electronics,East,2,1291.45
+359,2023-07-11,Mouse,Electronics,East,3,27.06
+360,2023-07-11,T-Shirt,Clothing,West,2,19.17
+361,2023-06-10,Sneakers,Clothing,East,4,80.72
+362,2023-10-22,T-Shirt,Clothing,South,5,20.86
+363,2023-07-31,Mouse,Electronics,South,4,27.50
+364,2023-05-12,Keyboard,Electronics,North,1,54.26
+365,2023-02-19,Blender,Home,East,5,84.18
+366,2023-09-13,Blender,Home,West,5,83.34
+367,2023-06-11,Smartphone,Electronics,West,4,741.06
+368,2023-01-09,Smartphone,Electronics,South,4,866.29
+369,2023-11-05,T-Shirt,Clothing,East,1,20.51
+370,2023-01-28,Monitor,Electronics,West,2,307.48
+371,2023-06-05,Monitor,Electronics,North,5,325.08
+372,2023-06-23,Backpack,Accessories,North,3,58.53
+373,2023-01-13,Jeans,Clothing,South,5,48.85
+374,2023-02-11,Desk Lamp,Home,East,2,38.76
+375,2023-02-02,Laptop,Electronics,East,3,1166.91
+376,2023-07-15,T-Shirt,Clothing,North,5,20.57
+377,2023-12-12,Coffee Maker,Home,North,3,103.77
+378,2023-10-06,Blender,Home,East,3,78.37
+379,2023-01-24,Laptop,Electronics,East,3,1227.01
+380,2023-03-23,Keyboard,Electronics,West,1,45.62
+381,2023-07-21,Keyboard,Electronics,South,2,53.88
+382,2023-01-24,T-Shirt,Clothing,East,3,19.10
+383,2023-05-19,Desk Lamp,Home,East,5,37.95
+384,2023-10-13,T-Shirt,Clothing,West,1,18.37
+385,2023-04-25,Keyboard,Electronics,South,2,51.94
+386,2023-06-20,Headphones,Electronics,East,3,161.70
+387,2023-02-06,Coffee Maker,Home,East,4,101.00
+388,2023-11-16,Mouse,Electronics,East,4,31.53
+389,2023-06-18,T-Shirt,Clothing,North,2,20.68
+390,2023-11-06,T-Shirt,Clothing,North,2,18.14
+391,2023-10-03,Desk Lamp,Home,South,4,40.44
+392,2023-01-09,Jeans,Clothing,North,5,45.55
+393,2023-11-30,Headphones,Electronics,West,3,141.04
+394,2023-07-23,Coffee Maker,Home,West,4,93.83
+395,2023-09-22,T-Shirt,Clothing,East,1,19.54
+396,2023-05-18,Desk Lamp,Home,West,3,42.82
+397,2023-07-30,Laptop,Electronics,South,1,1232.63
+398,2023-05-11,T-Shirt,Clothing,North,2,21.25
+399,2023-10-20,Laptop,Electronics,East,2,1308.04
+400,2023-08-02,T-Shirt,Clothing,West,1,19.36
+401,2023-08-18,Backpack,Accessories,West,4,56.21
+402,2023-01-07,Desk Lamp,Home,South,4,42.81
+403,2023-12-27,Headphones,Electronics,East,3,153.92
+404,2023-03-04,T-Shirt,Clothing,South,1,19.66
+405,2023-10-27,Keyboard,Electronics,North,5,54.02
+406,2023-08-16,Desk Lamp,Home,North,2,38.12
+407,2023-02-10,Jeans,Clothing,East,1,51.31
+408,2023-12-27,Headphones,Electronics,South,3,135.43
+409,2023-02-04,Coffee Maker,Home,East,3,103.19
+410,2023-06-04,Blender,Home,North,5,73.01
+411,2023-07-13,Blender,Home,East,1,73.48
+412,2023-08-02,Desk Lamp,Home,North,2,43.09
+413,2023-06-08,Keyboard,Electronics,North,1,49.15
+414,2023-01-16,Coffee Maker,Home,East,4,102.35
+415,2023-12-13,Coffee Maker,Home,South,1,105.01
+416,2023-02-25,Laptop,Electronics,West,3,1118.27
+417,2023-05-22,Smartphone,Electronics,South,1,782.97
+418,2023-10-19,Blender,Home,East,5,87.81
+419,2023-03-04,Keyboard,Electronics,South,3,54.79
+420,2023-08-08,Monitor,Electronics,North,5,313.37
+421,2023-12-26,Keyboard,Electronics,North,2,53.65
+422,2023-02-10,Monitor,Electronics,East,4,289.06
+423,2023-12-16,Desk Lamp,Home,North,3,40.00
+424,2023-03-29,Mouse,Electronics,East,3,29.91
+425,2023-03-05,Backpack,Accessories,North,2,56.17
+426,2023-11-06,Sneakers,Clothing,West,1,82.10
+427,2023-01-16,Sneakers,Clothing,East,5,84.11
+428,2023-02-14,Headphones,Electronics,South,5,146.94
+429,2023-02-12,Smartphone,Electronics,West,4,804.33
+430,2023-06-24,Smartphone,Electronics,West,5,847.92
+431,2023-12-01,Sneakers,Clothing,West,2,73.05
+432,2023-03-29,Laptop,Electronics,East,5,1179.61
+433,2023-01-12,Desk Lamp,Home,North,5,39.79
+434,2023-01-20,Blender,Home,South,2,87.10
+435,2023-12-04,Headphones,Electronics,West,1,137.50
+436,2023-03-27,Headphones,Electronics,South,4,150.75
+437,2023-03-22,Laptop,Electronics,South,5,1302.39
+438,2023-08-17,T-Shirt,Clothing,South,3,18.59
+439,2023-02-12,Backpack,Accessories,West,5,65.11
+440,2023-09-08,Jeans,Clothing,East,1,49.92
+441,2023-08-30,Backpack,Accessories,East,3,58.34
+442,2023-06-25,T-Shirt,Clothing,South,3,18.23
+443,2023-08-13,Jeans,Clothing,North,5,48.85
+444,2023-02-23,Smartphone,Electronics,West,1,732.70
+445,2023-07-29,Mouse,Electronics,North,1,29.71
+446,2023-03-25,Desk Lamp,Home,North,3,41.64
+447,2023-12-30,Keyboard,Electronics,West,5,46.70
+448,2023-10-18,Smartphone,Electronics,East,5,755.50
+449,2023-09-29,Headphones,Electronics,North,5,140.05
+450,2023-09-20,Desk Lamp,Home,West,3,42.68
+451,2023-06-07,Smartphone,Electronics,North,4,864.87
+452,2023-11-04,Blender,Home,West,4,87.10
+453,2023-11-21,Monitor,Electronics,East,2,288.95
+454,2023-05-26,Desk Lamp,Home,North,4,43.28
+455,2023-04-14,Desk Lamp,Home,South,5,42.33
+456,2023-05-21,Headphones,Electronics,North,5,155.73
+457,2023-04-19,Coffee Maker,Home,East,1,93.62
+458,2023-07-14,Smartphone,Electronics,North,1,741.95
+459,2023-06-05,Mouse,Electronics,East,2,28.79
+460,2023-10-15,Coffee Maker,Home,South,4,95.21
+461,2023-04-06,Coffee Maker,Home,East,5,99.72
+462,2023-08-26,Monitor,Electronics,East,2,325.17
+463,2023-02-11,Headphones,Electronics,West,5,139.94
+464,2023-12-14,Smartphone,Electronics,North,5,813.68
+465,2023-10-08,Sneakers,Clothing,South,1,76.24
+466,2023-11-08,Monitor,Electronics,South,3,299.66
+467,2023-12-06,Smartphone,Electronics,North,1,735.18
+468,2023-04-07,Keyboard,Electronics,West,1,48.22
+469,2023-10-23,Laptop,Electronics,East,3,1197.82
+470,2023-09-22,Backpack,Accessories,West,2,63.57
+471,2023-09-23,Blender,Home,South,1,74.31
+472,2023-09-25,Headphones,Electronics,East,4,148.48
+473,2023-03-07,Mouse,Electronics,East,5,29.30
+474,2023-02-19,Smartphone,Electronics,North,4,732.50
+475,2023-08-20,Coffee Maker,Home,North,4,102.17
+476,2023-01-23,Smartphone,Electronics,East,5,876.29
+477,2023-04-05,Desk Lamp,Home,South,4,37.75
+478,2023-01-09,Monitor,Electronics,South,1,289.32
+479,2023-10-12,Backpack,Accessories,North,3,59.81
+480,2023-11-19,Backpack,Accessories,South,2,57.56
+481,2023-09-29,Laptop,Electronics,South,1,1146.42
+482,2023-08-11,T-Shirt,Clothing,East,3,18.65
+483,2023-02-14,Desk Lamp,Home,West,4,36.91
+484,2023-07-15,T-Shirt,Clothing,South,3,21.15
+485,2023-05-05,Sneakers,Clothing,East,5,73.74
+486,2023-07-19,Coffee Maker,Home,East,5,103.96
+487,2023-07-07,Blender,Home,South,1,80.64
+488,2023-01-29,Monitor,Electronics,West,1,325.83
+489,2023-12-08,Blender,Home,West,1,85.23
+490,2023-11-26,Mouse,Electronics,North,5,29.82
+491,2023-05-26,Sneakers,Clothing,South,4,77.79
+492,2023-02-13,Backpack,Accessories,South,4,58.96
+493,2023-06-14,Laptop,Electronics,East,3,1168.05
+494,2023-07-27,Mouse,Electronics,West,3,31.31
+495,2023-05-11,Coffee Maker,Home,South,2,98.73
+496,2023-12-23,Blender,Home,West,5,81.23
+497,2023-06-01,Sneakers,Clothing,East,3,85.50
+498,2023-04-16,Laptop,Electronics,West,4,1105.87
+499,2023-08-19,Jeans,Clothing,East,4,52.69
+500,2023-07-11,T-Shirt,Clothing,East,2,21.81
+501,2023-07-21,Headphones,Electronics,West,3,137.75
+502,2023-02-28,Sneakers,Clothing,East,4,74.77
+503,2023-12-17,Laptop,Electronics,West,4,1118.60
+504,2023-10-19,Laptop,Electronics,West,3,1243.61
+505,2023-02-23,Keyboard,Electronics,North,2,48.15
+506,2023-06-01,Blender,Home,East,5,87.21
+507,2023-07-10,T-Shirt,Clothing,East,2,21.37
+508,2023-02-07,Desk Lamp,Home,East,1,37.81
+509,2023-06-03,Mouse,Electronics,West,3,29.71
+510,2023-06-03,Headphones,Electronics,North,2,151.09
+511,2023-05-17,Desk Lamp,Home,North,3,38.23
+512,2023-03-14,Headphones,Electronics,North,5,164.55
+513,2023-11-04,Backpack,Accessories,West,2,58.27
+514,2023-10-08,Mouse,Electronics,South,2,31.26
+515,2023-07-29,Blender,Home,West,1,82.60
+516,2023-02-21,Desk Lamp,Home,East,2,37.87
+517,2023-09-26,Mouse,Electronics,South,1,28.75
+518,2023-12-23,Backpack,Accessories,West,2,56.91
+519,2023-08-18,Smartphone,Electronics,West,2,755.18
+520,2023-07-10,Mouse,Electronics,East,2,28.34
+521,2023-11-27,Coffee Maker,Home,East,2,97.76
+522,2023-03-22,Keyboard,Electronics,South,5,45.53
+523,2023-07-09,Smartphone,Electronics,East,1,804.63
+524,2023-04-28,Backpack,Accessories,West,4,56.98
+525,2023-01-16,T-Shirt,Clothing,West,2,21.28
+526,2023-02-25,Blender,Home,East,1,73.28
+527,2023-04-30,Jeans,Clothing,East,1,48.32
+528,2023-02-18,Jeans,Clothing,North,3,45.69
+529,2023-02-03,Smartphone,Electronics,East,2,767.81
+530,2023-10-09,Keyboard,Electronics,North,1,49.62
+531,2023-11-11,Backpack,Accessories,East,4,54.47
+532,2023-07-12,Desk Lamp,Home,West,3,38.47
+533,2023-09-27,Coffee Maker,Home,North,4,94.97
+534,2023-01-04,Keyboard,Electronics,North,3,49.95
+535,2023-04-06,Jeans,Clothing,West,5,46.56
+536,2023-01-16,Coffee Maker,Home,South,5,92.98
+537,2023-03-24,Jeans,Clothing,West,5,50.96
+538,2023-10-17,Blender,Home,East,1,84.10
+539,2023-11-04,Jeans,Clothing,South,2,47.28
+540,2023-01-15,Desk Lamp,Home,West,2,36.50
+541,2023-01-27,Desk Lamp,Home,East,5,40.20
+542,2023-02-15,Sneakers,Clothing,North,4,85.81
+543,2023-01-15,Sneakers,Clothing,North,4,81.98
+544,2023-04-16,Laptop,Electronics,West,3,1146.25
+545,2023-03-01,Jeans,Clothing,West,2,53.24
+546,2023-12-08,Monitor,Electronics,South,5,295.54
+547,2023-05-27,T-Shirt,Clothing,North,4,20.22
+548,2023-11-14,Desk Lamp,Home,South,3,37.60
+549,2023-10-20,Desk Lamp,Home,East,2,40.45
+550,2023-07-04,Mouse,Electronics,North,2,27.04
+551,2023-05-12,Smartphone,Electronics,West,1,737.77
+552,2023-03-23,Monitor,Electronics,North,4,282.98
+553,2023-11-02,Desk Lamp,Home,South,4,41.94
+554,2023-03-16,Keyboard,Electronics,West,4,47.18
+555,2023-01-24,Sneakers,Clothing,North,4,85.50
+556,2023-02-14,Headphones,Electronics,North,5,164.06
+557,2023-02-20,Keyboard,Electronics,East,4,50.40
+558,2023-12-24,Coffee Maker,Home,South,1,100.03
+559,2023-05-20,Sneakers,Clothing,South,4,81.18
+560,2023-12-11,Coffee Maker,Home,West,4,102.38
+561,2023-08-16,Mouse,Electronics,South,4,27.25
+562,2023-07-13,Mouse,Electronics,East,2,30.76
+563,2023-01-30,Headphones,Electronics,West,3,148.70
+564,2023-09-14,Backpack,Accessories,West,4,59.79
+565,2023-07-21,Sneakers,Clothing,North,2,76.98
+566,2023-12-26,Keyboard,Electronics,South,4,50.84
+567,2023-08-26,Sneakers,Clothing,South,1,75.01
+568,2023-09-05,Keyboard,Electronics,South,4,54.59
+569,2023-07-02,Desk Lamp,Home,East,4,40.77
+570,2023-05-02,Keyboard,Electronics,North,3,47.07
+571,2023-08-11,Sneakers,Clothing,South,3,77.29
+572,2023-02-16,Smartphone,Electronics,South,3,850.98
+573,2023-08-02,Monitor,Electronics,East,5,319.57
+574,2023-05-11,Mouse,Electronics,East,1,31.03
+575,2023-12-08,Desk Lamp,Home,East,1,37.68
+576,2023-01-09,Laptop,Electronics,West,4,1222.00
+577,2023-08-28,Headphones,Electronics,West,1,150.92
+578,2023-11-25,Backpack,Accessories,North,4,64.70
+579,2023-10-29,Coffee Maker,Home,West,2,103.12
+580,2023-05-24,Backpack,Accessories,South,1,55.53
+581,2023-07-25,Backpack,Accessories,North,5,56.08
+582,2023-12-23,Coffee Maker,Home,North,2,106.39
+583,2023-03-09,Desk Lamp,Home,East,5,36.02
+584,2023-05-06,Sneakers,Clothing,South,5,76.61
+585,2023-08-24,Mouse,Electronics,North,4,30.52
+586,2023-02-22,Monitor,Electronics,North,3,312.98
+587,2023-03-22,T-Shirt,Clothing,West,3,19.16
+588,2023-04-22,Blender,Home,West,4,75.75
+589,2023-08-13,Laptop,Electronics,South,1,1261.21
+590,2023-11-01,Sneakers,Clothing,East,4,82.19
+591,2023-10-01,Desk Lamp,Home,South,5,39.36
+592,2023-10-22,Jeans,Clothing,South,3,53.40
+593,2023-10-21,Desk Lamp,Home,North,5,40.67
+594,2023-03-19,Coffee Maker,Home,South,1,102.50
+595,2023-01-22,Mouse,Electronics,South,5,28.41
+596,2023-12-14,Jeans,Clothing,West,2,49.70
+597,2023-11-21,Keyboard,Electronics,North,2,50.16
+598,2023-03-24,Jeans,Clothing,East,2,49.63
+599,2023-05-03,Blender,Home,West,2,72.22
+600,2023-02-27,Mouse,Electronics,South,1,30.63
+601,2023-01-29,Smartphone,Electronics,North,1,873.20
+602,2023-04-17,T-Shirt,Clothing,West,2,19.11
+603,2023-10-20,Headphones,Electronics,South,4,157.14
+604,2023-01-20,Jeans,Clothing,East,1,52.03
+605,2023-12-08,Coffee Maker,Home,North,4,97.32
+606,2023-12-06,Monitor,Electronics,North,3,320.61
+607,2023-10-09,Sneakers,Clothing,South,5,83.83
+608,2023-03-25,Mouse,Electronics,North,5,27.54
+609,2023-01-19,Coffee Maker,Home,East,1,103.17
+610,2023-12-10,Blender,Home,West,2,72.42
+611,2023-01-22,Mouse,Electronics,South,5,32.11
+612,2023-11-14,Smartphone,Electronics,North,5,849.27
+613,2023-04-17,T-Shirt,Clothing,East,2,18.70
+614,2023-07-07,T-Shirt,Clothing,North,5,20.43
+615,2023-04-25,Smartphone,Electronics,North,1,742.34
+616,2023-08-17,Desk Lamp,Home,West,3,43.35
+617,2023-09-06,Sneakers,Clothing,West,3,86.48
+618,2023-02-14,Mouse,Electronics,East,2,29.80
+619,2023-04-19,Coffee Maker,Home,North,1,100.47
+620,2023-09-08,T-Shirt,Clothing,North,5,18.21
+621,2023-06-09,Desk Lamp,Home,East,3,43.84
+622,2023-07-24,T-Shirt,Clothing,North,1,18.30
+623,2023-08-08,Backpack,Accessories,East,5,56.08
+624,2023-01-01,Laptop,Electronics,North,5,1277.26
+625,2023-04-13,Keyboard,Electronics,East,1,50.66
+626,2023-07-19,Headphones,Electronics,West,3,142.59
+627,2023-06-04,Desk Lamp,Home,North,2,40.36
+628,2023-10-28,Mouse,Electronics,North,5,27.78
+629,2023-11-09,Sneakers,Clothing,West,1,76.74
+630,2023-10-29,Coffee Maker,Home,East,3,94.01
+631,2023-02-15,Mouse,Electronics,East,1,27.98
+632,2023-10-15,Desk Lamp,Home,North,4,39.66
+633,2023-04-05,Monitor,Electronics,West,5,280.92
+634,2023-11-23,Backpack,Accessories,South,4,55.01
+635,2023-09-06,Blender,Home,East,1,86.65
+636,2023-03-29,T-Shirt,Clothing,West,5,21.24
+637,2023-09-16,Backpack,Accessories,South,3,61.88
+638,2023-03-30,Desk Lamp,Home,East,2,41.47
+639,2023-02-10,Mouse,Electronics,West,2,30.33
+640,2023-02-26,Jeans,Clothing,South,5,47.11
+641,2023-05-01,Sneakers,Clothing,East,1,86.00
+642,2023-08-07,Headphones,Electronics,West,5,135.58
+643,2023-10-27,Headphones,Electronics,West,5,149.22
+644,2023-07-20,Sneakers,Clothing,North,1,79.49
+645,2023-07-26,Laptop,Electronics,East,5,1267.88
+646,2023-06-26,Coffee Maker,Home,West,1,97.17
+647,2023-09-17,Desk Lamp,Home,West,3,39.36
+648,2023-06-20,Jeans,Clothing,North,3,48.00
+649,2023-11-11,Jeans,Clothing,East,4,51.79
+650,2023-01-05,Monitor,Electronics,West,5,303.47
+651,2023-01-08,Desk Lamp,Home,South,4,42.77
+652,2023-12-29,Laptop,Electronics,East,3,1302.48
+653,2023-10-21,Headphones,Electronics,West,5,135.14
+654,2023-11-12,Sneakers,Clothing,West,4,78.03
+655,2023-08-05,Keyboard,Electronics,East,2,54.39
+656,2023-10-30,Jeans,Clothing,South,2,53.08
+657,2023-08-20,T-Shirt,Clothing,North,3,18.14
+658,2023-11-20,Backpack,Accessories,East,4,55.71
+659,2023-03-23,T-Shirt,Clothing,South,1,18.19
+660,2023-09-12,Mouse,Electronics,North,1,29.33
+661,2023-05-09,Keyboard,Electronics,West,2,53.36
+662,2023-01-13,Headphones,Electronics,South,5,135.28
+663,2023-07-19,Backpack,Accessories,North,2,57.21
+664,2023-09-13,Smartphone,Electronics,North,4,799.10
+665,2023-05-25,Sneakers,Clothing,South,3,79.55
+666,2023-10-02,Backpack,Accessories,North,5,54.06
+667,2023-11-18,Blender,Home,South,1,76.99
+668,2023-04-18,Jeans,Clothing,West,4,48.96
+669,2023-10-08,Jeans,Clothing,South,5,53.30
+670,2023-01-05,T-Shirt,Clothing,North,4,18.32
+671,2023-09-27,Monitor,Electronics,South,4,301.70
+672,2023-10-28,Coffee Maker,Home,North,5,99.66
+673,2023-10-29,Keyboard,Electronics,East,1,52.33
+674,2023-12-07,Sneakers,Clothing,East,3,80.38
+675,2023-04-16,Monitor,Electronics,East,5,328.13
+676,2023-11-24,Keyboard,Electronics,South,3,45.98
+677,2023-05-02,T-Shirt,Clothing,North,4,18.39
+678,2023-09-15,Headphones,Electronics,North,2,145.35
+679,2023-11-19,Laptop,Electronics,South,3,1282.99
+680,2023-12-21,Blender,Home,North,3,75.12
+681,2023-06-20,Headphones,Electronics,North,2,160.58
+682,2023-09-15,Smartphone,Electronics,South,1,801.11
+683,2023-05-19,Sneakers,Clothing,East,2,79.06
+684,2023-11-09,Jeans,Clothing,East,3,47.43
+685,2023-03-15,Smartphone,Electronics,West,2,742.78
+686,2023-05-23,Jeans,Clothing,South,2,48.57
+687,2023-07-14,Mouse,Electronics,South,3,30.84
+688,2023-01-16,Monitor,Electronics,South,3,277.21
+689,2023-08-07,Monitor,Electronics,North,5,327.77
+690,2023-02-13,Monitor,Electronics,South,5,274.62
+691,2023-05-11,Jeans,Clothing,West,3,51.96
+692,2023-11-14,Mouse,Electronics,North,3,31.16
+693,2023-01-26,T-Shirt,Clothing,North,5,21.53
+694,2023-06-14,T-Shirt,Clothing,East,2,20.37
+695,2023-08-10,Monitor,Electronics,South,4,307.33
+696,2023-12-31,Keyboard,Electronics,East,5,47.92
+697,2023-02-27,Desk Lamp,Home,West,1,42.55
+698,2023-06-15,Keyboard,Electronics,East,3,45.66
+699,2023-03-26,Coffee Maker,Home,East,3,104.28
+700,2023-08-02,Coffee Maker,Home,East,1,97.84
+701,2023-08-15,T-Shirt,Clothing,South,3,18.02
+702,2023-04-24,Keyboard,Electronics,East,4,54.07
+703,2023-05-22,Desk Lamp,Home,South,3,37.59
+704,2023-08-15,T-Shirt,Clothing,East,3,20.26
+705,2023-09-17,Headphones,Electronics,West,3,144.68
+706,2023-02-09,Laptop,Electronics,East,5,1102.85
+707,2023-08-08,Sneakers,Clothing,West,3,84.89
+708,2023-08-21,Laptop,Electronics,West,1,1087.84
+709,2023-01-08,Mouse,Electronics,North,5,27.15
+710,2023-12-02,Smartphone,Electronics,North,3,815.85
+711,2023-08-26,Coffee Maker,Home,South,2,94.35
+712,2023-10-01,Keyboard,Electronics,South,4,45.54
+713,2023-03-01,Smartphone,Electronics,West,5,807.74
+714,2023-12-18,Headphones,Electronics,South,2,157.68
+715,2023-12-02,Keyboard,Electronics,East,5,53.50
+716,2023-09-29,Blender,Home,East,2,86.70
+717,2023-02-16,Desk Lamp,Home,South,2,41.80
+718,2023-10-12,Sneakers,Clothing,East,4,81.91
+719,2023-03-28,Desk Lamp,Home,South,4,38.20
+720,2023-08-31,Coffee Maker,Home,North,2,96.65
+721,2023-02-11,Sneakers,Clothing,East,4,72.51
+722,2023-02-16,Desk Lamp,Home,North,4,40.47
+723,2023-08-26,Backpack,Accessories,East,2,63.26
+724,2023-02-24,Coffee Maker,Home,South,1,104.57
+725,2023-12-06,T-Shirt,Clothing,South,1,21.20
+726,2023-01-12,Blender,Home,West,1,83.82
+727,2023-02-07,Smartphone,Electronics,South,2,723.20
+728,2023-05-13,Sneakers,Clothing,North,1,76.24
+729,2023-10-12,Backpack,Accessories,West,3,58.08
+730,2023-10-10,Backpack,Accessories,West,1,60.78
+731,2023-09-21,Coffee Maker,Home,South,3,106.99
+732,2023-10-15,Sneakers,Clothing,North,1,74.79
+733,2023-04-05,Headphones,Electronics,South,1,162.24
+734,2023-03-10,Keyboard,Electronics,South,3,51.96
+735,2023-11-28,Sneakers,Clothing,East,3,74.46
+736,2023-05-16,Headphones,Electronics,North,2,151.63
+737,2023-12-26,Headphones,Electronics,North,1,140.21
+738,2023-07-15,Monitor,Electronics,East,3,323.06
+739,2023-04-18,Jeans,Clothing,West,2,51.51
+740,2023-01-25,Sneakers,Clothing,South,1,84.57
+741,2023-11-08,Coffee Maker,Home,East,5,99.28
+742,2023-04-11,Blender,Home,East,1,82.08
+743,2023-10-20,Monitor,Electronics,South,3,275.11
+744,2023-03-25,Headphones,Electronics,West,3,146.26
+745,2023-09-04,Coffee Maker,Home,North,1,100.55
+746,2023-08-03,Keyboard,Electronics,East,5,49.29
+747,2023-05-17,Smartphone,Electronics,East,1,832.12
+748,2023-02-21,Backpack,Accessories,West,3,57.53
+749,2023-02-07,Keyboard,Electronics,South,3,53.45
+750,2023-09-09,Keyboard,Electronics,East,3,48.43
+751,2023-04-03,Monitor,Electronics,North,5,295.95
+752,2023-07-26,T-Shirt,Clothing,South,3,20.79
+753,2023-10-24,Smartphone,Electronics,North,1,825.12
+754,2023-04-07,Desk Lamp,Home,South,1,40.96
+755,2023-08-14,Desk Lamp,Home,West,1,37.44
+756,2023-03-17,Mouse,Electronics,East,3,29.14
+757,2023-04-21,Sneakers,Clothing,West,4,86.04
+758,2023-02-01,T-Shirt,Clothing,North,2,18.69
+759,2023-08-21,Headphones,Electronics,East,1,159.56
+760,2023-04-19,Coffee Maker,Home,North,1,92.97
+761,2023-12-11,Smartphone,Electronics,South,2,859.15
+762,2023-11-11,Sneakers,Clothing,West,2,87.24
+763,2023-02-22,Laptop,Electronics,East,5,1138.32
+764,2023-09-29,Mouse,Electronics,West,5,30.50
+765,2023-07-25,T-Shirt,Clothing,West,5,21.00
+766,2023-06-29,Sneakers,Clothing,North,2,80.50
+767,2023-07-08,Keyboard,Electronics,North,3,51.68
+768,2023-07-06,Backpack,Accessories,South,1,60.32
+769,2023-03-01,Desk Lamp,Home,South,1,39.24
+770,2023-09-18,Headphones,Electronics,North,3,152.27
+771,2023-12-21,Mouse,Electronics,North,3,31.69
+772,2023-05-17,Laptop,Electronics,North,4,1110.34
+773,2023-09-18,Laptop,Electronics,East,4,1256.54
+774,2023-07-13,Jeans,Clothing,South,2,48.99
+775,2023-11-01,Blender,Home,East,4,87.14
+776,2023-03-16,Blender,Home,North,5,77.07
+777,2023-02-28,T-Shirt,Clothing,West,1,21.63
+778,2023-11-02,T-Shirt,Clothing,East,1,19.32
+779,2023-01-27,Blender,Home,North,4,83.06
+780,2023-02-22,Desk Lamp,Home,West,3,38.22
+781,2023-02-10,Jeans,Clothing,North,1,48.56
+782,2023-10-05,Blender,Home,North,4,77.02
+783,2023-03-22,Keyboard,Electronics,West,4,45.46
+784,2023-11-16,Desk Lamp,Home,North,1,42.56
+785,2023-04-03,Laptop,Electronics,South,2,1142.74
+786,2023-07-17,Headphones,Electronics,West,2,161.86
+787,2023-10-19,Laptop,Electronics,East,5,1316.56
+788,2023-09-10,Keyboard,Electronics,East,3,53.34
+789,2023-10-15,Desk Lamp,Home,South,3,43.11
+790,2023-11-12,Sneakers,Clothing,North,3,82.34
+791,2023-03-20,Smartphone,Electronics,South,4,762.69
+792,2023-07-30,Backpack,Accessories,West,5,62.86
+793,2023-01-26,Smartphone,Electronics,North,2,847.58
+794,2023-11-09,Monitor,Electronics,North,2,327.28
+795,2023-04-28,Sneakers,Clothing,South,2,77.13
+796,2023-05-11,Keyboard,Electronics,East,3,46.92
+797,2023-05-10,Headphones,Electronics,West,3,145.17
+798,2023-05-28,Mouse,Electronics,West,4,28.31
+799,2023-01-23,T-Shirt,Clothing,South,1,20.36
+800,2023-04-10,Desk Lamp,Home,West,5,38.75
+801,2023-10-01,Sneakers,Clothing,East,1,74.01
+802,2023-05-04,T-Shirt,Clothing,North,3,20.31
+803,2023-04-14,Sneakers,Clothing,West,2,84.05
+804,2023-09-26,Coffee Maker,Home,North,2,98.27
+805,2023-02-03,Smartphone,Electronics,North,4,762.71
+806,2023-01-05,Coffee Maker,Home,West,5,100.78
+807,2023-01-15,Jeans,Clothing,South,3,51.93
+808,2023-03-31,Coffee Maker,Home,East,2,101.19
+809,2023-09-12,Headphones,Electronics,North,2,138.62
+810,2023-10-23,Smartphone,Electronics,North,3,753.08
+811,2023-10-10,Smartphone,Electronics,North,2,850.21
+812,2023-05-13,Coffee Maker,Home,East,3,104.75
+813,2023-09-02,Blender,Home,South,4,73.80
+814,2023-03-16,Coffee Maker,Home,East,5,94.15
+815,2023-06-20,Keyboard,Electronics,East,5,49.09
+816,2023-12-08,Sneakers,Clothing,North,3,81.29
+817,2023-09-10,Backpack,Accessories,North,2,63.66
+818,2023-06-13,Keyboard,Electronics,South,3,54.30
+819,2023-07-03,Blender,Home,East,3,75.43
+820,2023-08-03,Smartphone,Electronics,West,4,762.95
+821,2023-12-28,Smartphone,Electronics,East,2,863.64
+822,2023-12-24,Laptop,Electronics,North,3,1149.87
+823,2023-06-14,Desk Lamp,Home,East,1,36.60
+824,2023-08-06,T-Shirt,Clothing,South,2,21.52
+825,2023-08-23,Sneakers,Clothing,West,5,74.50
+826,2023-07-03,Sneakers,Clothing,South,1,87.30
+827,2023-11-14,T-Shirt,Clothing,South,5,21.05
+828,2023-07-25,Jeans,Clothing,West,4,53.25
+829,2023-02-20,Coffee Maker,Home,West,2,99.00
+830,2023-05-12,T-Shirt,Clothing,East,1,20.77
+831,2023-09-14,Smartphone,Electronics,North,2,795.79
+832,2023-01-19,Monitor,Electronics,North,3,312.17
+833,2023-04-20,Laptop,Electronics,North,5,1101.69
+834,2023-04-15,Jeans,Clothing,North,1,49.65
+835,2023-09-13,Backpack,Accessories,South,5,57.81
+836,2023-09-12,Backpack,Accessories,North,1,56.11
+837,2023-10-07,Laptop,Electronics,North,2,1205.73
+838,2023-03-12,T-Shirt,Clothing,East,1,21.31
+839,2023-06-03,Backpack,Accessories,North,2,57.73
+840,2023-08-11,Mouse,Electronics,North,4,29.51
+841,2023-02-19,T-Shirt,Clothing,North,5,18.54
+842,2023-01-17,Desk Lamp,Home,East,5,37.90
+843,2023-11-15,Laptop,Electronics,North,3,1281.36
+844,2023-02-02,Monitor,Electronics,West,2,278.70
+845,2023-01-26,Backpack,Accessories,East,1,59.62
+846,2023-03-12,Backpack,Accessories,North,4,55.55
+847,2023-03-11,Sneakers,Clothing,North,1,78.95
+848,2023-08-18,Mouse,Electronics,South,4,28.88
+849,2023-06-04,Jeans,Clothing,North,2,50.59
+850,2023-08-24,Keyboard,Electronics,East,5,52.48
+851,2023-10-22,Keyboard,Electronics,West,1,53.87
+852,2023-05-24,Laptop,Electronics,West,4,1156.24
+853,2023-11-25,T-Shirt,Clothing,East,2,19.27
+854,2023-04-03,Sneakers,Clothing,South,2,75.37
+855,2023-12-18,Monitor,Electronics,South,5,284.44
+856,2023-02-24,Keyboard,Electronics,West,3,51.98
+857,2023-08-09,T-Shirt,Clothing,East,5,21.85
+858,2023-12-18,T-Shirt,Clothing,North,4,20.50
+859,2023-10-31,Laptop,Electronics,West,5,1106.93
+860,2023-05-03,Sneakers,Clothing,North,2,77.21
+861,2023-03-08,Backpack,Accessories,North,4,59.40
+862,2023-04-22,Backpack,Accessories,East,5,62.06
+863,2023-08-07,Desk Lamp,Home,North,1,43.75
+864,2023-05-27,Mouse,Electronics,West,5,29.59
+865,2023-09-03,T-Shirt,Clothing,South,2,20.38
+866,2023-07-25,Keyboard,Electronics,South,4,51.68
+867,2023-11-21,Blender,Home,South,4,81.42
+868,2023-01-01,Sneakers,Clothing,West,3,87.07
+869,2023-04-03,Headphones,Electronics,East,4,140.80
+870,2023-01-24,Backpack,Accessories,North,5,64.85
+871,2023-01-21,Monitor,Electronics,North,5,319.64
+872,2023-02-20,Monitor,Electronics,South,1,282.51
+873,2023-08-26,Coffee Maker,Home,South,4,108.27
+874,2023-12-08,Sneakers,Clothing,West,1,84.79
+875,2023-06-06,T-Shirt,Clothing,South,3,18.17
+876,2023-12-12,Desk Lamp,Home,West,4,39.76
+877,2023-05-05,Desk Lamp,Home,South,1,36.16
+878,2023-01-11,Laptop,Electronics,West,4,1174.22
+879,2023-09-09,Mouse,Electronics,North,5,28.00
+880,2023-10-14,Mouse,Electronics,North,2,28.38
+881,2023-06-09,Keyboard,Electronics,South,1,46.34
+882,2023-07-10,Headphones,Electronics,West,1,155.09
+883,2023-08-11,Monitor,Electronics,North,2,288.82
+884,2023-07-03,Sneakers,Clothing,West,1,74.42
+885,2023-11-08,T-Shirt,Clothing,East,3,18.87
+886,2023-08-29,Desk Lamp,Home,West,3,38.63
+887,2023-04-27,Coffee Maker,Home,East,2,92.42
+888,2023-08-06,Desk Lamp,Home,East,5,36.77
+889,2023-09-16,T-Shirt,Clothing,South,1,21.21
+890,2023-03-30,Monitor,Electronics,South,1,317.72
+891,2023-07-02,Sneakers,Clothing,East,1,81.96
+892,2023-07-16,Blender,Home,North,5,81.20
+893,2023-02-25,Keyboard,Electronics,North,2,46.66
+894,2023-09-10,Blender,Home,South,5,81.16
+895,2023-02-25,Headphones,Electronics,North,1,148.56
+896,2023-10-26,Sneakers,Clothing,North,3,72.65
+897,2023-12-25,Blender,Home,South,5,82.12
+898,2023-01-14,Smartphone,Electronics,North,3,785.87
+899,2023-05-28,Keyboard,Electronics,North,5,49.61
+900,2023-03-22,Monitor,Electronics,East,4,289.37
+901,2023-03-20,Monitor,Electronics,West,2,306.98
+902,2023-12-23,Keyboard,Electronics,East,2,47.52
+903,2023-09-01,Coffee Maker,Home,South,5,100.20
+904,2023-01-18,Mouse,Electronics,East,1,32.10
+905,2023-04-25,Monitor,Electronics,East,3,277.66
+906,2023-09-09,Monitor,Electronics,West,5,297.62
+907,2023-06-27,Coffee Maker,Home,West,1,93.71
+908,2023-02-27,Laptop,Electronics,East,5,1157.72
+909,2023-11-22,Blender,Home,West,4,81.67
+910,2023-10-15,Coffee Maker,Home,East,2,101.10
+911,2023-04-17,Coffee Maker,Home,North,1,100.77
+912,2023-03-26,Sneakers,Clothing,South,2,73.48
+913,2023-03-09,Blender,Home,West,2,84.09
+914,2023-03-21,Coffee Maker,Home,South,3,97.50
+915,2023-05-18,Headphones,Electronics,North,4,154.16
+916,2023-10-29,Jeans,Clothing,East,2,51.55
+917,2023-08-21,Sneakers,Clothing,North,4,86.09
+918,2023-08-26,Coffee Maker,Home,North,3,99.75
+919,2023-12-31,Desk Lamp,Home,West,2,42.05
+920,2023-01-29,Mouse,Electronics,West,4,29.91
+921,2023-03-16,Sneakers,Clothing,East,1,82.84
+922,2023-02-07,Mouse,Electronics,South,4,30.51
+923,2023-04-26,Backpack,Accessories,South,3,58.43
+924,2023-11-04,Headphones,Electronics,South,4,157.87
+925,2023-01-03,Smartphone,Electronics,South,5,720.43
+926,2023-05-09,Laptop,Electronics,South,3,1239.79
+927,2023-08-10,Monitor,Electronics,North,5,325.08
+928,2023-02-04,Sneakers,Clothing,East,1,80.40
+929,2023-04-16,Desk Lamp,Home,West,3,38.34
+930,2023-10-01,Sneakers,Clothing,North,1,86.54
+931,2023-03-02,Blender,Home,North,4,76.38
+932,2023-11-14,Keyboard,Electronics,North,5,48.42
+933,2023-10-19,Mouse,Electronics,East,5,29.82
+934,2023-03-23,Laptop,Electronics,North,5,1178.44
+935,2023-08-23,Keyboard,Electronics,North,4,48.14
+936,2023-09-25,Keyboard,Electronics,East,5,52.39
+937,2023-04-17,Backpack,Accessories,West,5,55.49
+938,2023-12-01,Monitor,Electronics,North,1,284.35
+939,2023-11-08,Sneakers,Clothing,West,4,83.90
+940,2023-08-15,Jeans,Clothing,West,4,48.52
+941,2023-08-07,Jeans,Clothing,West,2,50.39
+942,2023-03-29,Smartphone,Electronics,East,2,832.43
+943,2023-06-21,Blender,Home,North,2,78.20
+944,2023-10-09,Mouse,Electronics,East,4,27.84
+945,2023-07-02,Monitor,Electronics,West,1,317.39
+946,2023-11-04,Blender,Home,West,4,75.50
+947,2023-11-18,Headphones,Electronics,East,2,153.86
+948,2023-10-24,Jeans,Clothing,South,4,53.85
+949,2023-05-06,Blender,Home,North,1,81.78
+950,2023-07-09,Monitor,Electronics,West,5,317.48
+951,2023-10-10,Coffee Maker,Home,West,5,98.81
+952,2023-09-10,Keyboard,Electronics,North,1,52.69
+953,2023-10-04,Laptop,Electronics,South,2,1099.60
+954,2023-12-29,Blender,Home,North,4,84.59
+955,2023-10-16,Jeans,Clothing,South,2,50.99
+956,2023-03-12,T-Shirt,Clothing,West,3,21.60
+957,2023-05-06,Headphones,Electronics,South,4,144.52
+958,2023-01-25,Headphones,Electronics,West,5,149.62
+959,2023-12-03,Jeans,Clothing,West,2,46.11
+960,2023-01-17,Smartphone,Electronics,West,5,786.00
+961,2023-04-08,Sneakers,Clothing,South,3,78.59
+962,2023-10-01,Jeans,Clothing,South,2,52.98
+963,2023-07-24,Mouse,Electronics,North,1,31.39
+964,2023-10-06,Monitor,Electronics,South,1,271.12
+965,2023-12-31,Smartphone,Electronics,North,3,832.02
+966,2023-01-15,Headphones,Electronics,West,4,148.42
+967,2023-11-15,Coffee Maker,Home,West,3,101.63
+968,2023-05-06,Mouse,Electronics,West,5,32.11
+969,2023-08-16,Mouse,Electronics,North,2,27.82
+970,2023-10-20,Backpack,Accessories,North,4,55.26
+971,2023-07-05,Coffee Maker,Home,North,1,97.77
+972,2023-01-25,Desk Lamp,Home,West,2,43.02
+973,2023-08-31,Mouse,Electronics,West,5,27.74
+974,2023-11-28,Laptop,Electronics,North,2,1316.56
+975,2023-07-26,Laptop,Electronics,North,5,1251.07
+976,2023-03-15,Monitor,Electronics,South,4,285.66
+977,2023-07-28,Keyboard,Electronics,East,2,50.20
+978,2023-08-16,Smartphone,Electronics,East,3,847.38
+979,2023-10-14,Headphones,Electronics,West,3,156.48
+980,2023-04-02,Sneakers,Clothing,West,1,84.46
+981,2023-04-11,Headphones,Electronics,West,4,158.80
+982,2023-05-30,Coffee Maker,Home,North,3,94.11
+983,2023-02-02,Keyboard,Electronics,East,4,50.51
+984,2023-06-22,Smartphone,Electronics,West,2,814.43
+985,2023-01-30,Sneakers,Clothing,East,3,77.64
+986,2023-05-31,Smartphone,Electronics,West,3,797.61
+987,2023-10-10,Headphones,Electronics,South,5,145.15
+988,2023-04-30,Blender,Home,West,2,81.57
+989,2023-03-16,Keyboard,Electronics,East,4,45.36
+990,2023-07-07,Keyboard,Electronics,South,1,49.96
+991,2023-09-24,Desk Lamp,Home,West,2,43.29
+992,2023-06-18,Jeans,Clothing,East,4,45.62
+993,2023-11-12,Keyboard,Electronics,East,4,49.78
+994,2023-03-16,Monitor,Electronics,West,1,320.11
+995,2023-10-30,Coffee Maker,Home,North,2,91.38
+996,2023-05-24,Laptop,Electronics,South,2,1126.54
+997,2023-11-18,Laptop,Electronics,South,1,1249.28
+998,2023-07-25,Keyboard,Electronics,East,3,51.86
+999,2023-04-06,Smartphone,Electronics,West,2,878.29
+1000,2023-10-19,Headphones,Electronics,East,3,138.49
