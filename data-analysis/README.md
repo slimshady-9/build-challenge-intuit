@@ -106,8 +106,22 @@ data-analysis/
 ## How to Run
 
 ### Prerequisites
-- **Java 8 or higher** (uses Java 8 Streams API)
-- No external dependencies required
+- **Docker** (recommended to skip local toolchain), or
+- **Java 8+** if running locally without containers
+
+### Docker (recommended)
+- Build (from repo root):
+  ```bash
+  docker compose build
+  ```
+- Run the analysis app (auto-generates sample data if `sales_data.csv` is missing):
+  ```bash
+  docker compose run --rm data_analysis
+  ```
+- Run both services together (stop with Ctrl+C):
+  ```bash
+  docker compose up
+  ```
 
 ### Basic Usage
 
@@ -428,4 +442,5 @@ This project follows industry best practices:
 - - **Testing**: Comprehensive test coverage
 - - **Version Control**: `.gitignore` excludes build artifacts
 - - **Logging**: Professional logging throughout
+
 

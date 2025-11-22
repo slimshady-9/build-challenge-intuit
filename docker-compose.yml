@@ -1,0 +1,14 @@
+services:
+  producer_consumer:
+    build:
+      context: ./producer_consumer
+      dockerfile: Dockerfile
+    entrypoint: ["python", "-m", "src.main"]
+    command: []
+
+  data_analysis:
+    build:
+      context: ./data-analysis
+      dockerfile: Dockerfile
+    entrypoint: ["java", "-cp", "bin", "Main"]
+    command: []

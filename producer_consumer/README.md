@@ -6,6 +6,7 @@ Python demo of the classic producer-consumer pattern using threads, blocking que
 
 - [How to Run](#how-to-run)
   - [Prerequisites](#prerequisites)
+  - [Docker (recommended)](#docker-recommended)
   - [Basic Usage](#basic-usage)
   - [Command Line Arguments](#command-line-arguments)
   - [Example Commands](#example-commands)
@@ -33,6 +34,31 @@ Python demo of the classic producer-consumer pattern using threads, blocking que
 ## How to Run
 
 ### Prerequisites
+- **Docker** (recommended to skip local Python setup), or
+- **Python 3.11+** with `pip` if running locally without containers
+
+### Docker (recommended)
+- Build (from repo root):
+  ```bash
+  docker compose build
+  ```
+- Run with defaults:
+  ```bash
+  docker compose run --rm producer_consumer
+  ```
+- Run with custom args:
+  ```bash
+  docker compose run --rm producer_consumer --buffer condition --producers 2 --consumers 3 --items 10 --capacity 4
+  ```
+- Run both services together (stop with Ctrl+C):
+  ```bash
+  docker compose up
+  ```
+
+### Basic Usage
+
+If you prefer running locally:
+
 1. Navigate to the project directory:
    ```bash
    cd producer_consumer
@@ -42,8 +68,6 @@ Python demo of the classic producer-consumer pattern using threads, blocking que
    ```bash
    python -m pip install -r requirements.txt
    ```
-
-### Basic Usage
 
 **Default run (queue buffer):**
 ```bash
@@ -198,7 +222,7 @@ Use `--log-level` to control verbosity:
 
 ## Results and Explanation
 
-> **Note**: Results screenshots for the examples below are saved in the [`results_screenshots` folder](./results_screenshots/).
+> **Note**: Results screenshots for the examples below are saved in the [`results_screenshots`](./results_screenshots) folder.
 
 ### Example 1: Balanced Configuration
 **Command:**
