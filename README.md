@@ -98,30 +98,14 @@ Why these languages:
 
 ---
 
-## Sample Outputs
+## Outputs
 - Results for both apps are printed to the console.
-- Prosperity Insights (Java):  
+- Prosperity Insights:  
   ![Prosperity Insights](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/Intuit%20Prosperity%20Insights.png)
-- Sales Analysis report (Java):  
+- Sales Analysis report:  
   ![Sales Analysis](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/SalesAnalyzer.png)
-- Producer-Consumer clean run (Python):  
+- Producer-Consumer clean run:  
   ![Producer Consumer Clean](https://github.com/slimshady-9/build-challenge-intuit/blob/main/producer_consumer/results_screenshots/Clean%20(no%20blocking).png)
-
----
-
-## Producer-Consumer Behavior Scenarios
-- Clean run (no blocking):
-  ```bash
-  python -m src.main --buffer condition --producers 1 --consumers 1 --items 6 --capacity 6
-  ```
-- Producer waiting (buffer full):
-  ```bash
-  python -m src.main --buffer condition --producers 5 --consumers 1 --items 6 --capacity 2
-  ```
-- Consumer waiting (buffer empty):
-  ```bash
-  python -m src.main --buffer condition --producers 1 --consumers 3 --items 6 --capacity 2
-  ```
 
 ---
 
