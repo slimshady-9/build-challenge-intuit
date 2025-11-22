@@ -44,6 +44,9 @@ Why these languages:
 - Computes totals, regional averages, MoM trends, top performers, refunds, reconciliation.
 - Robust CSV ingestion with error handling; immutable domain model.
 - Human-readable Prosperity Insights reporting.
+- **Includes Intuit-style specialized insights inspired by TurboTax and QuickBooks:**
+  - TurboTax-style **estimated tax liability** (configurable rate).
+  - QuickBooks-style **Month-over-Month sales growth** trend analysis.
 
 **Testing & Quality**
 - Python: `pytest` suite covering concurrency, blocking, ordering, shutdown.
@@ -94,7 +97,7 @@ Why these languages:
 
 - Python tests (pytest):  
   ![Python Tests](https://github.com/slimshady-9/build-challenge-intuit/blob/main/producer_consumer/results_screenshots/Testing%20Results.png)
-  
+
 - Java tests :  
   ![Java Tests](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/Test%20Results.png)
 
@@ -132,4 +135,4 @@ build-challenge-intuit/
 ---
 
 ## Conclusion
-A multi-language engineering solution with robust concurrency modeling, functional analytics, reproducible builds, and automated testing—ready for review.
+A multi-language engineering solution with robust concurrency modeling, functional analytics, reproducible builds, and automated testing.
