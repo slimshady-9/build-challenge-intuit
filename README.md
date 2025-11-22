@@ -91,9 +91,11 @@ Why these languages:
 ## CI & Test Verification
 - GitHub Actions (Python + Java):  
   ![CI Pipeline](https://github.com/slimshady-9/build-challenge-intuit/blob/main/github%20actions%20tests.png)
+
 - Python tests (pytest):  
   ![Python Tests](https://github.com/slimshady-9/build-challenge-intuit/blob/main/producer_consumer/results_screenshots/Testing%20Results.png)
-- Java tests (JUnit):  
+  
+- Java tests :  
   ![Java Tests](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/Test%20Results.png)
 
 ---
@@ -102,8 +104,10 @@ Why these languages:
 - Results for both apps are printed to the console.
 - Prosperity Insights:  
   ![Prosperity Insights](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/Intuit%20Prosperity%20Insights.png)
+
 - Sales Analysis report:  
   ![Sales Analysis](https://github.com/slimshady-9/build-challenge-intuit/blob/main/data-analysis/results_screenshots/SalesAnalyzer.png)
+  
 - Producer-Consumer clean run:  
   ![Producer Consumer Clean](https://github.com/slimshady-9/build-challenge-intuit/blob/main/producer_consumer/results_screenshots/Clean%20(no%20blocking).png)
 
