@@ -1,6 +1,58 @@
 # Intuit Sales Analysis Platform (Java)
 
-A robust, enterprise-grade financial analysis tool designed to provide small businesses with actionable insights. Built with **Java 8 Streams** and **BigDecimal precision**, it aligns with Intuit's mission to empower customers with data-driven decision-making capabilities.
+A robust, enterprise-grade financial analysis tool designed to provide small businesses with actionable insights. Built with **Java Streams** and **BigDecimal precision**, it aligns with Intuit's mission to empower customers with data-driven decision-making capabilities.
+
+## Table of Contents
+- [Intuit Sales Analysis Platform (Java)](#intuit-sales-analysis-platform-java)
+- [Features](#features)
+  - [1. Intuit Prosperity Insights](#1-intuit-prosperity-insights)
+  - [2. Financial Precision](#2-financial-precision)
+  - [3. Functional Programming Excellence](#3-functional-programming-excellence)
+  - [4. Production-Ready Code Quality](#4-production-ready-code-quality)
+- [Basic Workflow](#basic-workflow)
+  - [Step-by-Step Execution Flow](#step-by-step-execution-flow)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+  - [Prerequisites](#prerequisites)
+  - [Docker (recommended)](#docker-recommended)
+  - [Basic Usage](#basic-usage)
+  - [Running Tests](#running-tests)
+- [CSV File Format](#csv-file-format)
+  - [Required Headers](#required-headers)
+  - [Example CSV](#example-csv)
+  - [Flexible Column Ordering](#flexible-column-ordering)
+- [Dataset Rationale and Feature Importance](#dataset-rationale-and-feature-importance)
+- [Analysis Reports](#analysis-reports)
+  - [1. Total Sales by Category](#1-total-sales-by-category)
+  - [2. Average Sales by Region](#2-average-sales-by-region)
+  - [3. Top Selling Products](#3-top-selling-products)
+  - [4. Sales Trend by Month](#4-sales-trend-by-month)
+  - [5. TurboTax Tax Liability Estimation](#5-turbotax-tax-liability-estimation)
+  - [6. QuickBooks Month-over-Month Growth](#6-quickbooks-month-over-month-growth)
+- [Design Decisions](#design-decisions)
+  - [1. BigDecimal for Financial Precision](#1-bigdecimal-for-financial-precision)
+  - [2. Functional Programming with Streams](#2-functional-programming-with-streams)
+  - [3. Immutability](#3-immutability)
+  - [4. Error Handling](#4-error-handling)
+- [Test Coverage](#test-coverage)
+  - [Test Categories (17 Total)](#test-categories-17-total)
+- [Logging](#logging)
+  - [Log Levels](#log-levels)
+  - [Example Logs](#example-logs)
+- [Advanced Features](#advanced-features)
+  - [Higher-Order Functions](#higher-order-functions)
+  - [Composable Filters](#composable-filters)
+- [Future Enhancements](#future-enhancements)
+  - [Generative AI Integration](#generative-ai-integration)
+- [Assumptions](#assumptions)
+- [Challenges Addressed](#challenges-addressed)
+  - [1. Floating-Point Precision](#1-floating-point-precision)
+  - [2. Performance with Large Datasets](#2-performance-with-large-datasets)
+  - [3. Flexible Data Formats](#3-flexible-data-formats)
+  - [4. Graceful Error Handling](#4-graceful-error-handling)
+  - [5. Code Maintainability](#5-code-maintainability)
+- [Performance Characteristics](#performance-characteristics)
+- [Contributing](#contributing)
 
 ## Features
 
@@ -191,6 +243,21 @@ The CSV loader dynamically maps headers, so columns can be in any order:
 region,quantity,unit_price,transaction_id,date,product_name,category
 North,2,1200.00,1,2023-01-15,Laptop,Electronics
 ```
+
+## Dataset Rationale and Feature Importance
+
+- Why generate a dataset: Guarantees a reproducible baseline (1000 balanced records) for functional tests, validates edge handling (refunds, out-of-order headers), and avoids leaking any real customer data while still reflecting small-business sales patterns.
+- Assumptions baked into generation: Four canonical regions, three high-level categories, steady seasonal variation, and realistic price/quantity ranges that fit in memory for single-pass analysis.
+- Why these fields: Each column is the minimum needed to compute tax liability, MoM growth, inventory movement, and margin-aware revenue without extra joins or enrichment.
+- Importance of each feature
+  - `transaction_id`: Provides stable deduping and ordering; required for reconciliation.
+  - `date`: Powers monthly trends and MoM growth; enforces time-series correctness.
+  - `product_name`: Human-readable anchor for top-product reporting.
+  - `category`: Enables portfolio mix and margin-aware rollups; used in reconciliation tests.
+  - `region`: Drives tax estimation and regional benchmarking; key for routing insights to TurboTax.
+  - `quantity`: Captures demand volume; fuels top-seller ranking and refund handling (negatives).
+  - `unit_price`: Core to revenue and tax math; chosen over total to allow per-unit margin checks.
+  - Derived `total_revenue` (quantity * unit_price): Materialized in-memory for precise BigDecimal aggregations and to keep stream operations O(n) without recomputing.
 
 ## Analysis Reports
 
